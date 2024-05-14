@@ -1,12 +1,12 @@
 [user]
-    name = dhilipsiva
-    email = dhilipsiva@pm.me
+    name = hemanth-kumar-j
+    email = hemanth@nitimis.com
 
 [branch]
     autosetuprebase = always
 
 [github]
-    user = dhilipsiva
+    user = hemanth-kumar-j
 
 # [diff]
 #     tool = vimdiff

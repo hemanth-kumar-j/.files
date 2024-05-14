@@ -1,15 +1,13 @@
-alias :e="hx"  # Somtimes I type this thinking that I am inside vim :P
+alias :e="nvim"  # Somtimes I type this thinking that I am inside vim :P
 alias :q="exit"
 alias :wq="exit"
 alias c='xclip -select c'
 alias d="docker"
 alias dc="docker-compose"
 alias dm="docker-machine"
-alias e="hx"
+alias e="nvim"
 alias ff="firefox"
 alias g="git"
-alias l="exa --group-directories-first"
-alias ls="exa --group-directories-first"
 alias p="python"
 alias q="exit"
 alias ssn="sudo shutdown now"

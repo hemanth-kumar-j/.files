@@ -1,5 +1,5 @@
 export DOTFILES_DIR=$HOME/.files
-export EDITOR='hx'
+export EDITOR='nvim'
 export FZF_COMPLETION_OPTS='+c -x'
 export FZF_COMPLETION_TRIGGER='~~'
 export GOPATH=~/go
